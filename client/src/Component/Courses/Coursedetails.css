@@ -1,0 +1,169 @@
+.course-contn-main {
+    margin-top: 120px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.course-left-contain {
+    padding: 10px;
+    border: 2px solid rgb(236, 229, 229);
+    width: 420px;
+    border-radius: 15px;
+    height: 330px;
+}
+
+.course-left-contain img {
+    width: 400px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.course-left-contain h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.course-left-contain h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+}
+
+.course-left-contain h3 {
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.course-right-contain {
+    flex: 1;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.course-right-contain h3 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.course-right-contain p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+
+iframe {
+    width: 90%;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.btn-back {
+    border-radius: 8px;
+    background-color: rgb(48, 111, 211);
+    margin-top: 10px;
+    margin-left: 650px;
+    height: 40px;
+}
+
+.btn-down {
+    border-radius: 8px;
+    background-color: rgb(59, 111, 207);
+    margin-top: 10px;
+    height: 40px;
+
+}
+
+.btn-down a {
+    color: white;
+}
+
+.course-right-contain h2 {
+    margin-top: 50px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.course-right-contain h4 {
+    margin-top: 30px;
+    font-size: 17px;
+
+}
+
+.course-right-contain a {
+    margin-top: 10px;
+
+
+}
+
+
+@media (max-width: 768px) {
+    .course-contn-main {
+        flex-direction: column; 
+        align-items: center;
+        text-align: center;
+        margin: 60px auto;
+        gap: 20px;
+    }
+
+    .course-left-contain {
+        width: 90%; 
+        height: auto;
+        padding: 15px;
+    }
+
+    .course-left-contain img {
+        width: 100%;
+        height: auto;
+    }
+
+    .course-left-contain h1 {
+        font-size: 24px;
+    }
+
+    .course-left-contain h2 {
+        font-size: 20px;
+    }
+
+    .course-left-contain h3 {
+        font-size: 18px;
+    }
+
+    .course-right-contain {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .course-right-contain h3,
+    .course-right-contain p {
+        font-size: 20px;
+    }
+
+    iframe {
+        width: 100%;
+        height: 250px; 
+    }
+
+    .btn-back,
+    .btn-down {
+        width: 100%;
+        max-width: 200px;
+        height: 40px;
+        margin: 10px auto;
+        display: block;
+    }
+
+    .course-right-contain h2 {
+        font-size: 22px;
+        margin-top: 30px;
+    }
+
+    .course-right-contain h4 {
+        font-size: 16px;
+    }
+}

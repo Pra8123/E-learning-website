@@ -1,0 +1,175 @@
+[
+    {
+      "id": 1,
+      "category": "Web Development",
+      "price": 3499,
+      "description": "Web Developer Bootcamp 2025",
+      "image": "https://media.geeksforgeeks.org/wp-content/uploads/20240722160924/Top-10-Web-Development-Courses-For-Beginners--1.webp"
+    },
+    {
+      "id": 2,
+      "category": "Web Development",
+      "price": 1999,
+      "description": "Master front-end and back-end web technologies.",
+      "image": "https://corizo.in/wp-content/uploads/2024/11/web-development_.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Web Development",
+      "price": 5999,
+      "description": "Build web applications with modern frameworks.",
+      "image": "https://img-c.udemycdn.com/course/750x422/6035102_7d1a.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Web Development",
+      "price": 4499,
+      "description": "Learn to create e-commerce websites.",
+      "image": "https://epnovate.com/wp-content/uploads/2020/08/web-development.png"
+    },
+    {
+      "id": 6,
+      "category": "Data Science",
+      "price": 4999,
+      "description": "Python for Data Science and Machine learning.",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/mayo-freecodecamp-python-data-science-course.jpg"
+    },
+    {
+      "id": 7,
+      "category": "Data Science",
+      "price": 3999,
+      "description": "Master Python for data analysis.",
+      "image": "https://abotyim.github.io/posts/python/data-analysis.jpg"
+    },
+    {
+      "id": 8,
+      "category": "Data Science",
+      "price": 1999,
+      "description": "Learn machine learning fundamentals.",
+      "image": "https://i.ytimg.com/vi/i_LwzRVP7bg/maxresdefault.jpg"
+    },
+    {
+      "id": 9,
+      "category": "Data Science",
+      "price": 2499,
+      "description": "Data Science complete Course(bootcamp)",
+      "image": "https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg"
+    },
+    {
+      "id": 10,
+      "category": "Data Science",
+      "price": 1999,
+      "description": "Explore big data and analytics tools.",
+      "image": "https://www.amitysoft.com/blog/wp-content/uploads/2018/05/big-data-analytic-course-in-chennai.png"
+    },
+    {
+      "id": 11,
+      "category": "Mobile App Development",
+      "price": 1499,
+      "description": "Create native apps for Android.",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/8/335177450/LJ/NO/CB/185995322/android-app-development-services.png"
+    },
+    {
+      "id": 12,
+      "category": "Mobile App Development",
+      "price": 2999,
+      "description": "Develop cross-platform mobile apps.",
+      "image": "https://d2ms8rpfqc4h24.cloudfront.net/feature_image_cd4827a64d.jpg"
+    },
+    {
+      "id": 13,
+      "category": "Mobile App Development",
+      "price": 7999,
+      "description": "Learn Swift for iOS app development.",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/6/VR/WU/KA/154434099/app-development-500x500.jpg"
+    },
+
+    {
+      "id": 16,
+      "category": "Cybersecurity",
+      "price": 4999,
+      "description": "Understand network security principles.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuA9cv11HCTu3wLfauC6l1hv3OAd4H76Hc4Q&s"
+    },
+    {
+      "id": 17,
+      "category": "Cybersecurity",
+      "price": 3999,
+      "description": "Learn ethical hacking techniques.",
+      "image": "https://iirfranking.com/courses/wp-content/uploads/2022/07/Cyber-Security.jpeg"
+    },
+  
+    {
+      "id": 20,
+      "category": "Cybersecurity",
+      "price": 2499,
+      "description": "Complete cyber Security Course.",
+      "image": "https://thecyberexpress.com/wp-content/uploads/2023/10/MicrosoftTeams-image-75.png"
+    },
+    {
+      "id": 21,
+      "category": "Artificial Intelligence",
+      "price": 3999,
+      "description": "Learn AI concepts and algorithms.",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2021/09/AI-1.jpg"
+    },
+    {
+      "id": 22,
+      "category": "Artificial Intelligence",
+      "price": 4999,
+      "description": "Artificial Intellligence A-Z 2025",
+      "image": "https://itechnasik.com/wp-content/uploads/2023/11/AI.png"
+    },
+ 
+    {
+      "id": 33,
+      "category": "Blockchain Development",
+      "price": 3999,
+      "description": "Explore cryptocurrency development.",
+      "image": "https://prod-discovery.edx-cdn.org/media/course/image/ec5e106e-18be-4bf3-8721-58950b7da1d4-09a0431a0e5d.jpg"
+    },
+    {
+      "id": 34,
+      "category": "Blockchain Development",
+      "price": 1999,
+      "description": "Etereum and solidity: the Complete guide",
+      "image": "https://101blockchains.com/wp-content/uploads/2022/05/the-complete-ethereum-technology-course.png"
+    },
+    {
+      "id": 35,
+      "category": "Blockchain Development",
+      "price": 4499,
+      "description": "Master blockchain security concepts.",
+      "image": "https://seedformations.co.uk/wp-content/uploads/2021/05/What-Is-Blockchain-To-Cryptocurrency.png"
+    },
+
+    {
+      "id": 37,
+      "category": "Graphic Design",
+      "price": 4499,
+      "description": "Master vector design in Illustrator.",
+      "image": "https://courses.iid.org.in/public//uploads/media_manager/621.jpg"
+    },
+    {
+      "id": 38,
+      "category": "Graphic Design",
+      "price": "Free",
+      "description": "Basic Concept of Graphics 2024.",
+      "image": "https://i.ytimg.com/vi/GQS7wPujL2k/maxresdefault.jpg"
+    },
+
+    {
+      "id": 41,
+      "category": "Digital Marketing",
+      "price": 999,
+      "description": "Learn SEO and SEM techniques.",
+      "image": "https://addskillacademy.in/wp-content/uploads/2022/10/seo-courses.jpg"
+    },
+    {
+      "id": 42,
+      "category": "Digital Marketing",
+      "price": 4999,
+      "description": "Master social media marketing.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFjXOkFT3Q_QAJ-cmPjjZ6w23RNZkiabfh8g&s"
+    }
+]

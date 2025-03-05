@@ -1,0 +1,162 @@
+
+.sel-quiz h2,p{
+    /* margin-top: 50px; */
+    text-align: center;
+ }
+
+ .quiz-sel-card{
+    background-color: #ff9800; 
+    color: #fff; 
+  
+
+    width: 320px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    text-align: center;
+    
+  
+
+ }
+
+ .main-quiz {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+ }
+
+ .main-quiz .btn-quiz{
+    border-radius: 4px;
+    width: 100px;
+    background-color: rgb(34, 116, 204);
+    color: white;
+ }
+
+ .btn-quiz:hover{
+    background-color: rgb(22, 116, 174);
+ }
+
+ .quiz-sel-card h1{
+    font-size: large;
+
+ }
+
+/* //main question */
+
+.quiz{
+    width: 500px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 35%;
+    margin-top: 120px;
+
+
+}
+
+.quiz h2{
+    font-size: 30px;
+    color: red;
+}
+
+.quiz h3{
+    font-size: 20px;
+}
+
+.quess-btn{
+    width: 400px;
+    display: flex;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.quess-btn:hover{
+    background-color: rgb(40, 122, 216);
+}
+
+
+.result-quiz{
+    width: 500px;
+    height: auto;
+    border-radius: 12px;
+    /* box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); */
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 35%;
+    margin-top: 150px;
+
+}
+
+.result-quiz img{
+    width: 100px;
+    height: 120px;
+}
+
+.btn-result{
+    border-radius: 6px;
+    width: 150px;
+    height: 40px;
+    background-color: rgb(34, 116, 204);
+    color: white; 
+}
+
+.sel-quiz img{
+    width: 200px;
+    height: 140px;
+   margin-left: 650px;
+   margin-top: 100px;
+
+}
+
+@media (max-width: 768px){
+    .sel-quiz img{
+        width: 200px;
+        height: 140px;
+       margin-left:75px;
+       margin-top: 100px;
+    
+    }
+
+    .quiz{
+        width: 340px;
+        height: auto;
+        border-radius: 12px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+        padding: 20px;
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 4%;
+        margin-top: 120px;
+
+    
+    
+    }
+
+    .quess-btn{
+        width: 240px;
+        display: flex;
+        margin-bottom: 10px;
+        margin-left: 30px;
+    }
+
+    .result-quiz{
+        width: 360px;
+        height: auto;
+        border-radius: 12px;
+        padding: 20px;
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 2%;
+        margin-top: 150px;
+    
+    }
+   
+
+}

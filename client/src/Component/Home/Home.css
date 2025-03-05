@@ -1,0 +1,81 @@
+.about {
+    display: flex;
+    gap: 70px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 200px;
+}
+
+.about_right img {
+    width: 400px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.about_left {
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.about_left h1 {
+    color: rgb(0, 88, 151);
+    margin-bottom: 20px
+}
+
+.about_left h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.about_left button {
+    background-color: rgb(247, 111, 62);
+    height: 40px;
+    width: 200px;
+    margin-top: 10px;
+    color: rgb(13, 13, 68);
+    font-size: large;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+span {
+
+    font-weight: 300;
+}
+
+.company-header {
+    text-align: center;
+    font-size: 30px;
+    margin-top: -70px;
+
+
+}
+
+marquee img {
+    margin-right: 40px;
+}
+
+@media (min-width: 370px) and (max-width: 750px) {
+
+    .about {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 70px;
+        margin-bottom: 80px;
+        margin-left: 50px;
+    }
+
+    .about_right img {
+        width: 350px;
+        height: 300px;
+        margin-left: -40px;
+        margin-top: -50px;
+    }
+
+    .about_left {
+        margin-left: -20px;
+        margin-top: 40px;
+    }
+}
