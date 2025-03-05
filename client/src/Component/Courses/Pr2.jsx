@@ -74,7 +74,7 @@ function Pr2() {
 
     useEffect(() => {
         axios
-            .get("http://localhost:5407/Courses")
+            .get("https://e-learning-website-backend-u8ba.onrender.com/Courses")
             .then((response) => {
                 console.log("Courses API Response:", response.data);
                 if (response.data && response.data.list) {
