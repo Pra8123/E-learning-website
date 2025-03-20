@@ -206,7 +206,7 @@ function Coursedetails() {
 
     useEffect(() => {
         axios
-            .get(`http://localhost:5407/Courses/${id}`)
+            .get(`https://e-learning-website-backend-u8ba.onrender.com/Courses/${id}`)
             .then((response) => {
                 setCourse(response.data.course); 
                 setLoading(false);
