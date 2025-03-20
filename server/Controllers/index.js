@@ -12,7 +12,7 @@ exports.getAllCourses = (req, res) => {
             if (courseList && courseList.length > 0) {
                 res.status(200).json(courseList);
             } else {
-                res.status(404).json({ message: 'No course found' });
+                res.status(404).json({ message: 'No course founds' });
             }
         })
         .catch((error) => {
