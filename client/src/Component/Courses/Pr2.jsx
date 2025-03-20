@@ -74,12 +74,12 @@ function Pr2() {
 
     useEffect(() => {
         axios
-            .get("https://e-learning-website-backend-u8ba.onrender.com/Courses")
+            .get("http://localhost:5407/Courses")
             .then((response) => {
                 console.log("Courses API Response:", response.data);
-                if (response.data && response.data.list) {
-                    setCourses(response.data.list);
-                } else {
+                if (Array.isArray(response.data)) {
+                    setCourses(response.data);
+                  } else {
                     // console.error("Unexpected courses API response:", response.data);
                     setCourses([]);
                 }

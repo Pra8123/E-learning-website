@@ -9,8 +9,8 @@ import Review from '../Review/Review';
 import { Design } from './Design';
 import { Link } from 'react-router-dom';
 import Footer from '../Footer/Footer';
-import Why from './Why';
 import Ban from '../design/Ban';
+import Why from './Why';
 
 function Home() {
     return (
@@ -63,7 +63,7 @@ function Home() {
             <Accordian/>
             <Ban/>
             <Footer/>
-           
+      
         </div>
         
     );
